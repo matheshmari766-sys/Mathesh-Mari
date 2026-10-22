@@ -1,0 +1,6 @@
+{
+  "name": "LogiMate AI - Dubai Logistics Suite",
+  "description": "Smart logistics dashboard for Dubai Account Leaders featuring offline CBM calculator, professional email writer, GRN/GDN warehouse assistant, and English speaking coach with Tanglish guidance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
